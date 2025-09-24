@@ -1,6 +1,6 @@
 ## Problem : Finding Missing number in array
-### Solution : We can use a simple math formula to solve this => N=N*(N+1)//2
-### Problem Link : https://leetcode.com/problems/missing-number/
+- Solution : We can use a simple math formula to solve this => N=N*(N+1)//2
+- Problem Link : https://leetcode.com/problems/missing-number/
 ```Python 
 class Solution(object):
     def missingNumber(self, nums):
